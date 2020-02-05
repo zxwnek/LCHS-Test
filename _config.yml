@@ -16,14 +16,14 @@ source-code: https://github.com/CollectionBuilder
 # title of site appears in banner
 title: LCHS Test 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A small selection of Moscow Business images from the LCHS Archives
+tagline: "A small selection of Moscow Business images from the LCHS Archives"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Images of Moscow, Idaho Businesses from the founding of Moscow in 1871."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: zxwnek
 # collection project date, when did you publish this
-collection-date: "2019"
+collection-date: "2020"
 
 # Collection settings
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
