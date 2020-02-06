@@ -75,7 +75,7 @@ $yiq-text-light:            #fff !default;
 /* mixin to create text color variants */
 @mixin theme-text($parent, $color) {
     #{$parent} {
-        color: $color !important;
+        color: #ffff !important;
     }
     a#{$parent} {
         &:hover, &:focus {
